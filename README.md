@@ -8,3 +8,6 @@ The components used in the light alarm clock are:
 - Rotary encoder for setting the alarm times
 - LED ring that simulates a sunrise
 - OLED display for showing the time
+
+A demo video can be viewed at the following link:
+https://youtu.be/DK5jZWBKG9E
